@@ -1,0 +1,6 @@
+{
+    "firstName": "Tom",
+    "address": "USA",
+    "hobbies": ["running", "sky diving", "singing"],
+    "age": 27
+}
